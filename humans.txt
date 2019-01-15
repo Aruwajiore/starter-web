@@ -3,7 +3,13 @@
 
 # TEAM
 
+<<<<<<< HEAD
     <name> Ore tola -- <twitter>
+=======
+    Ore-aruwaji tola
+	temitopetola@gmail.com
+	Details:Devops Engineer
+>>>>>>> develop
 
 # THANKS
 
