@@ -12,3 +12,6 @@ Adding GIT compsrisons Lecture
 
 ##GITHub content 
 comparison with Repo
+
+## contribution
+Fork the repo and raise pull request for review
