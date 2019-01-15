@@ -5,7 +5,7 @@
 
     Ore-aruwaji tola
 	temitopetola@gmail.com
-	Details:Devops Engineer
+	Devops Engineer
 
 # THANKS
 
@@ -15,3 +15,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJak
+	Docker, Java programming 
