@@ -8,7 +8,11 @@
 =======
     Ore-aruwaji tola
 	temitopetola@gmail.com
+<<<<<<< HEAD
 	Details:Devops Engineer
+>>>>>>> develop
+=======
+	Devops Engineer
 >>>>>>> develop
 
 # THANKS
@@ -17,6 +21,8 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3, Angular
-    jQuery, Modernizr,
-	machine learning, AWS, google cloud
+      HTML5, CSS3, Angular
+	  jQuery, Modernizr,
+	  machine learning, AWS, google cloud
+
+
