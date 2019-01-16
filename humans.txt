@@ -5,6 +5,7 @@
 Hi, I am modifying the file before rebase.
 
 Doing some changes in Local.
+Adding some important notes on GIT stash.
 =======
 Hi, Going to insert conflicts in my feature branch.
 >>>>>>> mybranch
