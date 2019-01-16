@@ -11,7 +11,8 @@ Hi, I am modifying the file before rebase.
     Ore-aruwaji tola
 	temitopetola@gmail.com
 <<<<<<< HEAD
-	Details:Devops Engineer
+	Details:Devops Engineer level III
+	It organization
 >>>>>>> develop
 =======
 	Devops Engineer
